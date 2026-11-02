@@ -1,0 +1,6 @@
+{
+  "name": "The Home Depot Secret Discounts",
+  "description": "Unlock hidden discounts and savings on Home Depot power tools, outdoor living, home improvement, and renovation essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
